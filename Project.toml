@@ -41,6 +41,7 @@ VCFTools = "0.2.7"
 VariantCallFormat = "0.5"
 WiSER = "0.2.2"
 julia = "1.6"
+GeneticVariantBase = "0.1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
